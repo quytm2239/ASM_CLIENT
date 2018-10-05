@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ASM_FORM_CLIENT.Properties" GeneratedClassName="SocketClientConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="HOST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.4</Value>
+    </Setting>
+    <Setting Name="PORT" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4444</Value>
+    </Setting>
+    <Setting Name="BUFFER_SIZE" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2048</Value>
+    </Setting>
+    <Setting Name="TOTAL_CONNECTION" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="LOG_FILE_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\LogForSaeaTest\Client\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
